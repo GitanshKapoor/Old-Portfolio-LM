@@ -4,7 +4,7 @@ This version of my portfolio has been deprecated. To access the latest updates. 
 
 🌟 You can Visit My New Portfolio Site: https://gitansh.tech/
 
-🌟 To Visit My Old Portfolio Site: https://gitanshkapoor.github.io/Old-Portfolio/
+🌟 To Visit My Old Portfolio Site: https://gitanshkapoor.github.io/Old-Portfolio-LM/
 
 
 ## Tech Stack

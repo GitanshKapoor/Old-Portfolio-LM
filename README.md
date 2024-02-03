@@ -1,11 +1,8 @@
 # Portfolio Webpage
 
-This version of my portfolio has been deprecated. To access the latest updates. Thank you for your continued interest in my work.
+This version of my portfolio has been deprecated. To access the latest updates check out my Linkedin Page. Thank you for your continued interest in my work.
 
-🌟 You can Visit My New Portfolio Site: https://gitansh.tech/
-
-🌟 To Visit My Old Portfolio Site: https://gitanshkapoor.github.io/Old-Portfolio-LM/
-
+🌟 To Visit My Portfolio Site(Deprecated Version) : https://gitanshkapoor.github.io/Old-Portfolio-LM/
 
 ## Tech Stack
 
